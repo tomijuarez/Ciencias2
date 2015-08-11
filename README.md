@@ -2,7 +2,7 @@
 
 ###Introducción
 
-**YAVT** es el proyecto final en conjunto de las materias análisis y diseño de algoritmos I y ciencias de la computación II, dictadas en la facultad de Ciencias Exactas de la Universidad Nacional del Centro de la provincia de Buenos Aires. Se trata de una aplicación educativa e interactiva que facilite al alumno el estudio de la *verificación formal de programas* mediante una interfaz amigable.
+**YAVT** es el proyecto final en conjunto de las materias Análisis y Diseño de Algoritmos I y Ciencias de la Computación II, dictadas en la facultad de Ciencias Exactas de la Universidad Nacional del Centro de la Provincia de Buenos Aires. Se trata de una aplicación educativa e interactiva que facilite al alumno el estudio de la *verificación formal de programas* mediante una interfaz amigable.
 
 ###Experiencia
 
@@ -10,7 +10,7 @@ Comenzamos el diseño del proyecto en diciembre de 2014 a días de terminar segu
 
 ###Agradecimientos
 
-Después de 8 meses de esfuerzo en donde muchos nos ignoraron al pedir ayuda, algunos otros pusieron parte de su tiempo (incluso en vacaciones de verano) para ayudarnos con el proyecto. Es por ésto que considero que esta sección es realmente importante ya que sin estas personas no podríamos haber concretado aún la aplicación. Mis agradecimientos son para **Martín Menchón**, por ayudarnos con problemas realmente complicados en este trabajo sin pretender nada a cambio; ha pasado noches enteras con este trabajo aún cuando no tenía por qué hacerlo. A mi novia, **Valentina**, quien me brindó mañanas, tardes y noches enteras a pesar de estudiar una carrera totalmente diferente, de une forma incondicional y siempre posponiendo el sueño con esos cafés horribles que me hacía. La mitad de este trabajo es de ellos dos, por todo lo que aportaron. Fuera del ámbito académico, rodearse con este tipo de personas es lo mejor que puede ocurrir en esta época de tanta presión (y en cualquier otra circunstancia).
+Después de 8 meses de esfuerzo en donde muchos nos ignoraron al pedir ayuda, algunos otros pusieron parte de su tiempo (incluso en vacaciones de verano) para ayudarnos con el proyecto. Es por ésto que considero que esta sección es realmente importante ya que sin estas personas no podríamos haber concretado aún la aplicación. Mis agradecimientos son para **Martín Menchón**, por ayudarnos con problemas realmente complicados en este trabajo sin pretender nada a cambio; ha pasado noches enteras con este trabajo aún cuando no tenía por qué hacerlo. A mi novia, **Valentina**, quien me brindó mañanas, tardes y noches enteras a pesar de estudiar una carrera totalmente diferente, de una forma incondicional y siempre posponiendo el sueño con esos cafés horribles que me hacía. La mitad de este trabajo es de ellos dos, por todo lo que aportaron. Fuera del ámbito académico, rodearse con este tipo de personas es lo mejor que puede ocurrir en esta época de tanta presión (y en cualquier otra circunstancia).
 
 ###Importante
 
