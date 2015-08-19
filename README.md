@@ -18,5 +18,5 @@ El código es libre y gratuito para editarlo y distribuirlo a gusto, siempre y c
 
 ##Contacto
 
-Para cualquier duda o sugerencia, tomasjuarez.exa@gmail.com
+Para cualquier duda o sugerencia, tomasjuarez.exa@gmail.com.
 
